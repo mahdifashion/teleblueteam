@@ -235,11 +235,11 @@ An advance Administration bot based on yagop/telegram-bot
 https://github.com/SEEDTEAM/TeleSeed
 
 Our team!
-Alphonse (@Iwals)
-I M /-\ N (@Imandaneshi)
-Siyanew (@Siyanew)
-Rondoozle (@Potus)
-Seyedan (@Seyedan25)
+Alphonse (@persianfa)
+I M /-\ N (@persianfa)
+Siyanew (@persianfa)
+Rondoozle (@persianfa)
+Seyedan (@Spersianfa)
 
 Special thanks to:
 Juan Potato
@@ -418,6 +418,10 @@ Will return group logs
 
 !banlist
 Will return group ban list
+
+id team teleblue : @teleblueteam
+id sudo : @persianfa
+id sudo 2 : @Mamadhack
 
 » U can use both "/" and "!" 
 
